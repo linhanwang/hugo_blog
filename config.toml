@@ -1,0 +1,4 @@
+baseURL = "http://linhanwang.github.io/"
+languageCode = "en-us"
+title = "Linhan Wang's Personal Blog"
+theme = "ananke"
